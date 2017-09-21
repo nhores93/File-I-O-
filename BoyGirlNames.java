@@ -11,7 +11,7 @@ public class BoyGirlNames
 
 		try 
       		{
-			//Creating InputStreams for the name text files
+			//Creating InputStreams for the girl names and boy names text files
 			inputStream1 = new Scanner(new FileInputStream("girlnames.txt"));
 			inputStream2 = new Scanner(new FileInputStream("boynames.txt"));
 			
